@@ -1,0 +1,33 @@
+p{
+  text-indent: 10px;
+  background: black;
+  color: yellow;
+}
+
+#mydiv{
+background: green;
+padding-top: 30px;
+padding-right: 30px;
+padding-bottom: 30px;
+padding-left: 30px;
+margin: 80px;
+}
+
+#yourdiv{
+background: blue;
+margin-top: 150px;
+margin-right: 50px;
+maargin-bottom: 150px;
+margin-right: 50px;
+padding: 50px;		
+}
+
+.myclass{
+color: white
+}
+
+h1{
+background: pink;
+margin: 50px;
+color: black;
+}
